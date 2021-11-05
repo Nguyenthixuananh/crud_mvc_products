@@ -1,0 +1,8 @@
+Để kết nối PHP với MySQL chúng ta dùng thư viện của PHP
+-MySQLi: đời cũ, chỉ dùng với mySQL
+-PDO(PHP Data Object): dùng với nhiều loại DB
+
+Der ket noi den CSDL can cac tham so
+-Data Source Name
+-Username
+-Password
